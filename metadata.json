@@ -1,0 +1,5 @@
+{
+  "name": "ResearchStudio",
+  "description": "A professional research workspace for organizing ArXiv papers, viewing PDFs, and taking AI-assisted notes.",
+  "requestFramePermissions": []
+}
